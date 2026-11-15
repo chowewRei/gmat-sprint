@@ -1,2 +1,0 @@
-# gmat-sprint
-gmat practice
