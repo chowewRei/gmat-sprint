@@ -1,0 +1,1 @@
+GMAT Sprint Text Edition. Open index.html in Chrome or Edge. Most questions have automatically extracted text, and flagged OCR transcriptions should be cross-checked with View original. Your results are stored in browser localStorage. Export session history before switching computers. Question #66 prior grading corrected to answer B (2 PM).
